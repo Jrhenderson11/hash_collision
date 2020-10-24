@@ -1,0 +1,1 @@
+g++ hash_collision.cpp -o collision -std=c++17 -lcrypto
